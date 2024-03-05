@@ -2,7 +2,6 @@
     "name": "STEP - React Web Component",
     "description": "Microfrontend for web components in react",
     "type": "template",
-    "releaseStage": "stable",
     "tenantId": "step",
     "itemId": "step-react-web-component-template",
     "repositoryUrl": "https://github.com/Step-4-Business/step-react-template-webcomponent/",
