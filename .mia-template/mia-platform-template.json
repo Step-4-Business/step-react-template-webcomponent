@@ -9,9 +9,6 @@
     "label": "React Template",
     "categoryId": "spa",
     "suportedBy": "Step4Business",
-    "visibility":{
-        "allTenants": true
-    },
     "documentation": {
         "type": "markdown",
         "url": "https://raw.githubusercontent.com/Step-4-Business/step-react-template-webcomponent/main/README.md"
