@@ -5,29 +5,29 @@
     "releaseStage": "stable",
     "tenantId": "step",
     "itemId": "step-react-web-component-template",
-    "repositoryUrl": "https://github.com/Step-4-Business/step-quarkus-template/",
-    "label": "Quarkus Template",
-    "categoryId": "kotlin",
+    "repositoryUrl": "https://github.com/Step-4-Business/step-react-template-webcomponent/",
+    "label": "React Template",
+    "categoryId": "spa",
     "suportedBy": "Step4Business",
     "visibility":{
         "allTenants": true
     },
     "documentation": {
         "type": "markdown",
-        "url": "https://raw.githubusercontent.com/Step-4-Business/step-quarkus-template//main/README.md"
+        "url": "https://raw.githubusercontent.com/Step-4-Business/step-react-template-webcomponent/main/README.md"
     },
     "image": {
         "localPath": "./image.png"
     },
     "supportedByImage": {
-        "localPath": "./supportedByImage.jpeg"
+        "localPath": "./supportedByImage.png"
     },
     "resources":{
         "services":{
             "step-react-web-component-service":{
                 "name": "step-react-web-component-service",
-                "description": "Simple Quarkus Service",
-                "archiveUrl": "https://github.com/Step-4-Business/step-quarkus-template/archive/main.tar.gz",
+                "description": "Simple React Web Component Service",
+                "archiveUrl": "https://github.com/Step-4-Business/step-react-template-webcomponent/archive/main.tar.gz",
                 "containerPorts": [
                     {
                         "name": "http",
@@ -60,12 +60,12 @@
                 },
                 "defaultResources": {
                     "cpuLimits": {
-                      "max": "150m",
-                      "min": "50m"
+                      "max": "100m",
+                      "min": "100m"
                     },
                     "memoryLimits": {
-                      "max": "300Mi",
-                      "min": "300Mi"
+                      "max": "200Mi",
+                      "min": "200Mi"
                     }
                   }
             }
