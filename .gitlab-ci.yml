@@ -1,0 +1,4 @@
+include:
+    - project: "clients/beConsulting/step/cd-ci-templates"
+      file: "javascript/react-design-system.yml"
+      ref: "main"

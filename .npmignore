@@ -1,0 +1,14 @@
+src
+*.config.js
+*.config.ts
+tsconfig.json
+tsconfig.node.json
+storybook-static
+stats.html
+*.log
+.storybook
+.gitlab-ci.yml
+.env
+.prettierrc
+public
+*.properties
